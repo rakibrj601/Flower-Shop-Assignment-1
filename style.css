@@ -8,25 +8,20 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-
+    background-image: url(./pngwing\ 10.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
 }
 .header-text{
     width: 550px;
     font-size: 30px;
 }
+
 .main-header{
     font-size: 70px;
     margin-bottom: 20px;
 }
-.header-img{
-   margin-right: 100px;
-   margin-top: 72px;
-}
-.header-discription{
-    font-size: 15px;
-    padding: 10px;
-    
-}
+
 .header-btn{
     font-size: 35px;
     border-radius: 5px;
