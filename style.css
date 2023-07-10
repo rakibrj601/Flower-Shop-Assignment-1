@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+}
+.header-container{
+    width: 100%;
+    height: 100vh;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.header-text{
+    width: 550px;
+    font-size: 30px;
+}
+.main-header{
+    font-size: 70px;
+    margin-bottom: 20px;
+}
+.header-img{
+   margin-right: 100px;
+   margin-top: 72px;
+}
+.header-discription{
+    font-size: 15px;
+    padding: 10px;
+    
+}
+.header-btn{
+    font-size: 35px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(245, 101, 101);
+    margin-top: 20px;
+}
+.Featured-text{
+    text-align: center;
+}
+.Featured-head{
+    font-size: 50px;
+    margin-top: 100px;
+}
+.featured-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 30px;
+}
+.Featured-img1{
+    background-color: #F8C8DC;
+    padding: 50px;
+    border-top-right-radius: 200px;
+    border-top-left-radius: 200px;
+   height: 380px;
+}
+.Featured-img2{
+    background-color: #ADD8E6;
+    padding: 50px;
+    border-top-right-radius: 200px;
+    border-top-left-radius: 200px;
+   height: 380px;
+}
+.Featured-img3{
+    background-color: rgb(156, 234, 234);
+    padding: 50px;
+    border-top-right-radius: 200px;
+    border-top-left-radius: 200px;
+   height: 380px;
+}
+.Featured-img{
+    width: 285px;
+}
+.Featured-head4{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+.flower{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 30px;
+    text-decoration: underline;
+}
+.service-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px;
+    margin-top: 200px;
+    background-color: rgb(174, 187, 187);
+    height: 150px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.service-h4{
+  text-align: center;
+  margin-top: 15px;
+}
+.hotdeal-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 150px;
+    background-color: #e3c9d4;
+    padding: 25px;
+}
+.hotdeal-text{
+    width: 550px;
+}
+.hotdeal-h4{
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.hotdeal-discripton{
+  text-align: center;
+}
+.sign-up{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 200px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(245, 101, 101);
+}
